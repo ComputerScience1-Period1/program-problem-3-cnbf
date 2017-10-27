@@ -22,9 +22,9 @@ void pause() {
 	cout << '\n';
 
 }
-int main()
+int main() 
 {
-	int i = 1;
+	int i = 1; 
 	while (i < 31)
 	{
 	int x;
